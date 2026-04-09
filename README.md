@@ -1,1 +1,1 @@
-Data Structures (University of Miami) ECE 218 and this class is in C++. The various hands-on projects allow beginner programmers to learn basic core concepts. Most of the projects were done using a Graphic Programming Library developed by Dr. Stephen Murell and is subject to his public general license.
+Data Structures (University of Miami) ECE 218 and this class is in C++. The various hands-on projects allow beginner programmers to learn basic core concepts.
